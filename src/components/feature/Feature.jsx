@@ -1,10 +1,12 @@
 import React from 'react';
-import './article.css';
+import './feature.css';
 
-const Article = () => {
+const Feature = () => {
   return (
-    <div>Article</div>
+    <div>
+        Feature
+    </div>
   )
 }
 
-export default Article
+export default Feature
