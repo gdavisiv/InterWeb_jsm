@@ -2,11 +2,24 @@
 //Type 'rafce' to build it quickly
 import React from 'react'
 
+//we can import all our created folders/files
+import { Footer, Blog, Possibility, Features, What3DM, Header } from './containers';
+import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
   return (
-    <div>
-        <h1>GDIV</h1>
+    <div className='App'>
+        <div className= 'gradient_bg'>
+            <Navbar />
+            <Header />
+        </div>
+        <Brand />
+        <What3DM />
+        <Features />
+        <Possibility />
+        <CTA />
+        <Blog />
+        <Footer />
     </div>
   )
   
