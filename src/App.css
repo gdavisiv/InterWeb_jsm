@@ -1,0 +1,38 @@
+/* This will implement the general style for all elements */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+/* This is a setting the background color */
+body {
+    background: var( --color-bg);
+}
+
+/* This is a setting the background color */
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+/* This is a setting the background color using the following website: https://angrytools.com/gradient/*/
+.gradient__bg {
+   /* ff 3.6+ */
+   background:-moz-radial-gradient(circle at 3% 35%, rgba(0, 40, 83, 1) 0%, rgba(16, 16, 102, 1) 100%);
+
+   /* safari 5.1+,chrome 10+ */
+   background:-webkit-radial-gradient(circle at 3% 35%, rgba(0, 40, 83, 1) 0%, rgba(16, 16, 102, 1) 100%);
+
+   /* opera 11.10+ */
+   background:-o-radial-gradient(circle at 3% 35%, rgba(0, 40, 83, 1) 0%, rgba(16, 16, 102, 1) 100%);
+
+   /* ie 10+ */
+   background:-ms-radial-gradient(circle at 3% 35%, rgba(0, 40, 83, 1) 0%, rgba(16, 16, 102, 1) 100%);
+
+   /* global 92%+ browsers support */
+   background:radial-gradient(circle at 3% 35%, rgba(0, 40, 83, 1) 0%, rgba(16, 16, 102, 1) 100%);
+
+}
+

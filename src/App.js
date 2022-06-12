@@ -5,11 +5,12 @@ import React from 'react'
 //we can import all our created folders/files
 import { Footer, Blog, Possibility, Features, What3DM, Header } from './containers';
 import { CTA, Brand, Navbar } from './components';
+import './App.css';
 
 const App = () => {
   return (
     <div className='App'>
-        <div className= 'gradient_bg'>
+        <div className= 'gradient__bg'>
             <Navbar />
             <Header />
         </div>
