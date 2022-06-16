@@ -3,6 +3,8 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo.svg';
 import './navbar.css';
 
+//Quick and easy way to reuse items that are repeated
+//like menus for example
 const Menu = () => (
   <>
   <p><a href="#home">Home</a></p>
@@ -39,6 +41,10 @@ const Navbar = () => {
           <div className="gpt3__navbar-menu_container scale-up-center">
             <div className="gpt3__navbar-menu_container-links">
               <Menu />
+              <div className='gpt3__navbar-menu_container-links-sign'>
+                <p>Sign in</p>
+                <button type="button">Sign up</button>
+              </div>
             </div>
           </div>
         )}

@@ -62,3 +62,80 @@
     outline: none;
     cursor: pointer;
 }
+
+.gpt3__navbar-menu {
+    margin-left: 1rem;
+
+    display: none;
+    position: relative;
+}
+
+.gpt3__navbar-menu svg {
+    cursor: pointer;
+}
+
+/* This is a setting the background color */
+.gpt3__navbar-menu_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+    text-align: end;
+    background: var(--color-footer);
+    padding: 2rem;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    margin-top: 1rem;
+    min-width: 210px;
+    border-radius: 5px;
+    box-shadow: 0 0 5 rgba(0, 0, 0, 0.2);
+}
+
+.gpt3__navbar-menu_container p {
+    margin: 1rem 0;
+}
+
+.gpt3__navbar-menu_container-links-sign {
+    display: none;
+}
+
+/* We'll now need to add some device media queries  */
+/* Any device with a maxwidth of 1050px */
+@media screen and (max-width: 1050px) {
+    .gpt3__navbar-links_container {
+        display: none
+    }
+    .gpt3__navbar-menu {
+        display: flex;
+    }
+}
+
+/* Any device with a maxwidth of 700px */
+@media screen and (max-width: 700px) {
+    .gpt3__navbar {
+        padding: 2rem 4rem;
+    }
+}
+
+/* Any device with a maxwidth of 550px */
+@media screen and (max-width: 550px) {
+    .gpt3__navbar {
+        padding: 2rem;
+    }
+
+    .gpt3__navbar-sign {
+        display: none
+    }
+
+}
+
+.gpt3__navbar-menu_container {
+    top: 20px;
+}
+
+/* This will make the signup and sign in button display in the pop-up menu  */
+.gpt3__navbar-menu_container-links-sign {
+    display: block;
+}
