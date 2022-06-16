@@ -6,7 +6,7 @@
     scroll-behavior: smooth;
 }
 
-/* This is a setting the background color */
+/* This is setting the background color */
 body {
     background: var( --color-bg);
 }
@@ -80,7 +80,7 @@ a {
     }
 }
 
-/* We'll now need to add some media queries  */
+/* We'll now need to add some device media queries  */
 /* This will handle midsized devices like tablets/phones */
 @media screen and (max-width: 700px) {
     .section__padding {

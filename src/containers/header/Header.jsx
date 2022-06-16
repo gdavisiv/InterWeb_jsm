@@ -3,7 +3,7 @@ import './header.css';
 
 const Header = () => {
   return (
-    <div>
+    <div className= "gpt3__header section__padding" id="Home">
         Header
     </div>
   )
