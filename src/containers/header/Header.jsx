@@ -21,11 +21,9 @@ const Header = () => {
           <img src={people} alt-text="Photo of people who have accessed GPT-3 in the last 24 hours!" />
         </div>
         <p>1,600 people requested access to GPT-3 in the last 24 hours</p>
-
-        <div className="gpt3__header-image">
+      </div>
+      <div className="gpt3__header-image">
           <img src={ai} alt-text="Artist rendering of what an Artificial Intelligence face would resemble." />
-        </div>
-
       </div>
     </div>
   )
