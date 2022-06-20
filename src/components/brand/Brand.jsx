@@ -4,8 +4,13 @@ import './brand.css';
 
 const Brand = () => {
   return (
-    <div class='gtp3__brand section__padding'>
-        Brand
+    <div className='gtp3__brand section__padding'>
+        <div>
+          <img src={google} alt="Google Logo" />
+        </div>
+        <div>
+          <img src={slack} alt="Slack Logo" />
+        </div>
     </div>
   )
 }
