@@ -112,10 +112,14 @@
     }
 }
 
-/* Any device with a maxwidth of 700px */
-@media screen and (max-width: 700px) {
+/* Any device with a maxwidth of 810px */
+@media screen and (max-width: 810px) {
     .gpt3__navbar {
         padding: 2rem 4rem;
+    }
+
+    .gpt3__navbar-sign {
+        display: none
     }
 }
 
