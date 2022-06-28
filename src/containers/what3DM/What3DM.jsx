@@ -8,7 +8,7 @@ const What3DM = () => (
         <Feature />
       </div>
       <div className="gpt3__whatgpt3-heading">
-        <h1 className="gradient-text">The endless applications are beyond your imagination!</h1>
+        <h1 className="gradient__text">The endless applications are beyond your imagination!</h1>
         <p>Explore the Library</p>
       </div>
       <div className="gpt3__whatgpt3-container">
