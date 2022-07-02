@@ -1,5 +1,5 @@
 import React from 'react';
-import { Feature } from '../../components/';
+import Feature from '../../components/feature/Feature';
 import './what3DM.css';
 
 const What3DM = () => (
@@ -19,4 +19,4 @@ const What3DM = () => (
     </div>
 );
 
-export default What3DM
+export default What3DM;
