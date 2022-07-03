@@ -1,5 +1,5 @@
 import React from 'react';
-import Feature from '../../containers/features/Features';
+import Feature from '../../components/feature/Feature';
 import './what3DM.css';
 
 const What3DM = () => {
