@@ -50,16 +50,19 @@ a {
 }
 
 .section__margin {
-    padding: 4rem 6rem;
+    margin: 4rem 6rem;
 }
+
+
 
 /* Implement SCALE-UP Animation from: https://animista.net/play/basic/scale-up  */
 .scale-up-center {
 	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
-/* Implement SCALE-UP Animation from: https://animista.net/play/basic/scale-up  */@-webkit-keyframes scale-up-center {
+/* Implement SCALE-UP Animation from: https://animista.net/play/basic/scale-up  */
+@-webkit-keyframes scale-up-center {
     0% {
         -webkit-transform: scale(0.5);
         transform: scale(0.5);
@@ -84,19 +87,21 @@ a {
 /* This will handle midsized devices like tablets/phones */
 @media screen and (max-width: 700px) {
     .section__padding {
-        padding: 4rem;
+      padding: 4rem;
     }
+  
     .section__margin {
-        padding: 4rem;
+      margin: 4rem;
     }
 }
 
 /* This will handle mobile devices only */
 @media screen and (max-width: 550px) {
     .section__padding {
-        padding: 4rem 2rem;
+      padding: 4rem 2rem;
     }
+  
     .section__margin {
-        padding: 4rem 2rem;
-    }
+      margin: 4rem 2rem;
+    }  
 }
