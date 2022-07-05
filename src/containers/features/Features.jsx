@@ -4,19 +4,19 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Lorum Impsum',
+    title: 'Implementing GPT-3 for Business',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
   {
-    title: 'Lorum Impsum',
+    title: 'Educating your workforce',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
   {
-    title: 'Lorum Impsum',
+    title: 'Cost and Maintenance',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
   {
-    title: 'Lorum Impsum',
+    title: 'Providing Support for different Organizations',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
 ];
