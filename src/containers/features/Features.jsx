@@ -5,19 +5,19 @@ import './features.css';
 const featuresData = [
   {
     title: 'Implementing GPT-3 for Business',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
   {
     title: 'Educating your workforce',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
+    text: 'Lorem ipsum dolor sit amet, tempor incididunt ut labore et dolore magna aliqua. Tristique senectus et netus et malesuada.',
   },
   {
     title: 'Cost and Maintenance',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
   {
     title: 'Providing Support for different Organizations',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
+    text: 'Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique senectus et netus et malesuada.',
   },
 ];
 
