@@ -4,7 +4,7 @@ import './what3DM.css';
 
 const What3DM = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
+    <div className="gpt3__whatgpt3 section__margin" id="what3DM">
       <div className="gpt3__whatgpt3-feature">
         <Feature title="What is GPT-3?" text="Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI, a San Francisco-based artificial intelligence research laboratory"/>
       </div>

@@ -7,7 +7,7 @@ import './navbar.css';
 //like menus for example
 const Menu = () => (
   <>
-  <p><a href="#home">Home</a></p>
+  <p><a href="#Home">Home</a></p>
   <p><a href="#what3DM">What is GPT3?</a></p>
   <p><a href="#possibility">OpenAI</a></p>
   <p><a href="#features">Case Studies</a></p>
