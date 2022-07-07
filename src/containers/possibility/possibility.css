@@ -26,11 +26,6 @@
 }
 
 .gpt3__possibility-content h4 {
-    
-}
-
-/* This is for the second h4 */
-.gpt3__possibility-content h4:last-child {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 16px;
@@ -38,10 +33,27 @@
     color: #71E5FF;
 }
 
+/* This is for the second h4 */
+.gpt3__possibility-content h4:last-child {
+    color: #FF8A71;
+}
+
 .gpt3__possibility-content h1 {
-    
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
+
+    margin: 1rem 0;
+
 }
 
 .gpt3__possibility-content p {
-    
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 30px;
+    color: var(--color-text);
+
+    margin-bottom: 2rem;
 }
+
