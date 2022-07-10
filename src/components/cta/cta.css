@@ -35,7 +35,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 2rem;
+    /* margin-left: 2rem; */
+    margin-top: 2rem;
 }
 
 .gpt3__cta-btn button{
@@ -50,8 +51,8 @@
 
     border: none;
     outline: none;
-    cursor: 
-    min-width 150px;
+    cursor: pointer;
+    min-width: 150px;
 }
 
 @media screen and (max-width: 650px) {
