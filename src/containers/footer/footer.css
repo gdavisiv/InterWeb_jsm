@@ -1,7 +1,7 @@
 .gpt3__footer {
     /* Useful Trick to see what I'm having an effect on
-    border: 1px solid #FFFFFF; */
-    color: #FFFFFF;
+    border: 1px solid #FFFFFF; 
+    color: #FFFFFF;*/
 
     display: flex;
     flex-direction: column;
@@ -49,3 +49,80 @@
     word-spacing: 2px;
 }
 
+.gpt3__footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    width: 100%;
+    text-align: left;
+}
+
+.gpt3__footer-links div {
+    width: 250px;
+    margin: 1rem;
+}
+
+.gpt3__footer-links_logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.gpt3__footer-links_logo img {
+    width: 110px;
+    height: 30px;
+
+    margin-bottom: 1rem;
+}
+
+.gpt3__footer-links_logo p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+
+.gpt3__footer-links_div {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    /* font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF; */
+}
+
+.gpt3__footer-links_div h4 {
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+
+    margin-bottom: 1rem;
+}
+
+.gpt3__footer-links_div p {
+    font-family: var(--font-family);
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+
+    margin: .5rem 0;
+    cursor: pointer;
+}
+
+.gpt3__footer-copyright {
+    margin-top: 2rem;
+    text-align: center;
+    width: 100%;
+}
+
+.gpt3__footer-copyright p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    font-feature-settings: 'liga' off;
+    color: #FFFFFF;
+}
