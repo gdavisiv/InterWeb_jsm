@@ -7,6 +7,10 @@
 
 This project is a altered version of the original based off the tutorial series on building a full responsive Modern UI/UX website with React JS.
 
+###Still Screenshot
+</br>
+<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/Desktop-FullView.png" width="300">
+
 ### Animated Screenshots
 </br>
 <p align="center">
@@ -14,7 +18,7 @@ This project is a altered version of the original based off the tutorial series 
 <img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-MobileView.gif">
 </p>
 </br>
-###Still Screenshot
+
 
 ### Prerequisites
 
