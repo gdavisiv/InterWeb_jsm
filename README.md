@@ -10,15 +10,15 @@ This project is a altered version of the original based off the tutorial series 
 ###Still Screenshot
 </br>
 <div align="center">
-<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/Desktop-FullView.png" width="800">
+<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/Desktop-FullView.png">
 </div>
 
 ### Animated Screenshots
 </br>
-<p align="center">
+<div align="center">
 <img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-FullScreen.gif">
 <img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-MobileView.gif">
-</p>
+</div>
 </br>
 
 
