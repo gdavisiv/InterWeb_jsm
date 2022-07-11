@@ -10,8 +10,8 @@ This project is a altered version of the original based off the tutorial series 
 ### Screenshots
 
 <p align="center">
-<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-FullScreen.gif"height="600">
-<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-MobileView.gif" height="600" width="300">
+<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-FullScreen.gif">
+<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-MobileView.gif">
 </p>
 
 ### Prerequisites
