@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/gdavisiv/Vivid-UI---DesignCode/blob/UI-Updates/DesignCode_1/Assets.xcassets/swiftuiLogo.png" height="100" width="100">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F1200px-React-icon.svg.png&f=1&nofb=1" height="100" width="100">
 <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="100" width="100">
 <img src ="https://images.ctfassets.net/aeu1amk9b600/2YCOdZTqTjQyNNFwxFqW9a/1ac7bb924b09ee0f3d15e782df54ac34/347873-Mark_Circular_white_no_shadow-3d0a86-original-1582585736.png" height="100" width="100">
 </p>
