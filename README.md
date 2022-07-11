@@ -9,7 +9,7 @@ This project is a altered version of the original based off the tutorial series 
 
 ###Still Screenshot
 </br>
-<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/Desktop-FullView.png" width="300">
+<img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/Desktop-FullView.png">
 
 ### Animated Screenshots
 </br>
