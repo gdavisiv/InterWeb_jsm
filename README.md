@@ -18,11 +18,11 @@ This project is a altered version of the original based off the tutorial series 
 
 ### Prerequisites
 
-Modern UI
-React JS
-CSS BEM Model
-Javascript
-NPM
+Modern UI</br>
+React JS</br>
+CSS BEM Model</br>
+Javascript</br>
+NPM</br>
 
 
 
