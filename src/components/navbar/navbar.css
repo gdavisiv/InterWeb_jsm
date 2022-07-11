@@ -110,6 +110,9 @@
     .gpt3__navbar-menu {
         display: flex;
     }
+    .gpt3__navbar-sign {
+        display: none
+    }
 }
 
 /* Any device with a maxwidth of 810px */
