@@ -7,7 +7,7 @@
 
 # Responsive Modern UI/UX + React JS!
 
-This project is a altered version of the original based off the tutorial series on building a full responsive Modern UI/UX website with React JS.
+This project documents the process of building a full responsive Modern UI/UX website with React JS.
 
 ###Still Screenshot
 </br>
