@@ -18,7 +18,12 @@ This project documents the process of building a full responsive Modern UI/UX we
 ### Animated Screenshots
 </br>
 <div align="center">
+###Desktop Version
+</br>
 <img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-FullScreen.gif">
+</br>
+###Mobile Version
+</br>
 <img src="https://github.com/gdavisiv/InterWeb_jsm/blob/main/GPT3-MobileView.gif">
 </div>
 </br>
