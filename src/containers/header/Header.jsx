@@ -18,12 +18,12 @@ const Header = () => {
         </div>
 
         <div className="gpt3__header-content__people">
-          <img src={people} alt-text="Photo of people who have accessed GPT-3 in the last 24 hours!" />
+          <img src={people} alt="Rendering of people who have accessed GPT-3 in the last 24 hours!" />
         </div>
         <p>1,600 people requested access to GPT-3 in the last 24 hours</p>
       </div>
       <div className="gpt3__header-image">
-          <img src={ai} alt-text="Artist rendering of what an Artificial Intelligence face would resemble." />
+          <img src={ai} alt="Artist rendering of what an Artificial Intelligence face would resemble." />
       </div>
     </div>
   )
